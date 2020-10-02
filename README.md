@@ -1,4 +1,4 @@
-# CraftableElytraDatapack
+# Craftable Elytra Datapack
 ### Minecraft datapack that allows you to craft elytra.
 
 #### To use:
